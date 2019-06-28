@@ -8,6 +8,10 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+<<<<<<< HEAD
+=======
+    "element-ui": "^2.9.1",
+>>>>>>> origin/master
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
@@ -15,6 +19,11 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
+<<<<<<< HEAD
+=======
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
+>>>>>>> origin/master
     "vue-template-compiler": "^2.6.10"
   },
   "postcss": {
